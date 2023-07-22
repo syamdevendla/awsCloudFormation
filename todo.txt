@@ -1,0 +1,7 @@
+Complete aws configure
+AWS architecture diagram
+git commands flow
+understand terraform
+k8s
+Helm charts
+Grafana
