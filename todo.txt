@@ -5,3 +5,4 @@ understand terraform
 k8s
 Helm charts
 Grafana
+Ok now lets C
